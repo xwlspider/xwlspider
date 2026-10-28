@@ -22,9 +22,6 @@ Soy estudiante y desarrollador enfocado en el desarrollo **Full-Stack, móvil**.
 
 ### Mis lenguajes de programación más comunes
 
-
-## Lenguajes más utilizados
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xwlspider&layout=compact&langs_count=8&theme=tokyonight)
 
 
