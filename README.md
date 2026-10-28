@@ -1,6 +1,9 @@
 
 # 🦖🎮👓 Erick Alexander Chávez
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/47ed363c-17f2-4a96-8880-a35461fff9b2" />
+
+
 Soy estudiante y desarrollador enfocado en el desarrollo **Full-Stack, móvil**. Me apasiona transformar ideas e integraciones de hardware/software en aplicaciones funcionales, intuitivas y eficientes.
 
 ### 🛠️ Tecnologías y Herramientas
@@ -19,7 +22,10 @@ Soy estudiante y desarrollador enfocado en el desarrollo **Full-Stack, móvil**.
 
 ### Mis lenguajes de programación más comunes
 
-[![Tarjeta de Estadísticas](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+## Lenguajes más utilizados
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xwlspider&layout=compact&langs_count=8&theme=tokyonight)
 
 
 ---
